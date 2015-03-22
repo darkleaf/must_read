@@ -14,13 +14,22 @@
 * [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
 * [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
 
-## Gems
+
+# Styleguide
+
+* [Github ruby styleguide](https://github.com/styleguide/ruby)
+* [ruby styleguide](https://github.com/bbatsov/ruby-style-guide)
+* [rails styleguide](https://github.com/bbatsov/rails-style-guide)
+
+
+
+# Gems
 
 * [Gem глазами потребителя](http://nashbridges.me/gem-for-end-user)
 * [Learn how RubyGems works, and how to make your own](http://guides.rubygems.org/)
 * [Bundler](http://bundler.io/)
 
-## Документация
+# Документация
 
 * [nashbridges.me](http://nashbridges.me/)
 * [rails guides](http://guides.rubyonrails.org/)
@@ -30,7 +39,7 @@
 * [Rails Searchable API Doc](http://railsapi.com/)
 * [rusrails](http://rusrails.ru/)
 
-## Сервисы для изучения ruby
+# Сервисы для изучения ruby
 
 * [try ruby](http://tryruby.org/)
 * [rubeque.com](http://rubeque.com/)
@@ -39,8 +48,7 @@
 
 
 
-## Библиотеки
-
+# Библиотеки
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
 
 ***
