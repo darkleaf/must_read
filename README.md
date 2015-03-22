@@ -1,8 +1,11 @@
+TODO: подумать над структурой
+
 # Начало
 
 * [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
 * [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
+* [Человеческий фактор или «соглашения не работают»](http://megamozg.ru/post/1240/)
 
 # Styleguide
 
@@ -65,6 +68,7 @@
 * [tryGit](http://try.github.com/)
 * [GitHowTo](http://githowto.com/)
 * [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
+* (думай как гит)[http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/]
 
 # Github
 
@@ -75,7 +79,10 @@
 * [Разделение получения и использования](http://mokevnin.github.io/blog/2012/06/03/razdelenie-polucheniya-i-ispolzovaniya/)
 * [Принцип наименьшего удивления (ПНУ)](http://mokevnin.github.io/blog/2013/11/14/pnu/)
 * [когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
-* 
+
+* [value object](http://www.sitepoint.com/value-objects-explained-with-ruby/)
+ 
+* [RESTful API для сервера – делаем правильно](http://habrahabr.ru/post/144011/)
 
 * [GRASP](http://ru.wikipedia.org/wiki/GRASP)
 * [Принцип одного уровня абстракции](http://habrahabr.ru/post/126227/)
