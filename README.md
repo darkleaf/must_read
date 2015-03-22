@@ -7,8 +7,8 @@
 # Styleguide
 
 * [Github ruby styleguide](https://github.com/styleguide/ruby)
-* [ruby styleguide](https://github.com/bbatsov/ruby-style-guide)
-* [rails styleguide](https://github.com/bbatsov/rails-style-guide)
+* [Ruby styleguide](https://github.com/bbatsov/ruby-style-guide)
+* [Rails styleguide](https://github.com/bbatsov/rails-style-guide)
 
 # Документация
 
