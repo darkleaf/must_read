@@ -40,6 +40,8 @@
 
 # Rails
 
+* [Иерархия контроллеров](http://habrahabr.ru/post/136461/)
+
 * [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [ActiveRecord Query Interface 3.0](http://habrahabr.ru/post/82767/)
@@ -168,6 +170,10 @@
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
 
+
+# Благодарности
+
+Огромное спасибо команде [kaize](https://github.com/kaize/)
 
 
 ***
