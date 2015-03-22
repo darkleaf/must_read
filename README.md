@@ -52,6 +52,8 @@
 * [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
 * [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
 
+* [asset-pipeline](http://rusrails.ru/asset-pipeline)
+
 # Git
 
 * [Github flow](https://guides.github.com/introduction/flow/)
@@ -66,7 +68,12 @@
 
 * [guides.github.com](https://guides.github.com/)
 
-# Принципы
+# Проектирование
+
+* [Разделение получения и использования](http://mokevnin.github.io/blog/2012/06/03/razdelenie-polucheniya-i-ispolzovaniya/)
+* [Принцип наименьшего удивления (ПНУ)](http://mokevnin.github.io/blog/2013/11/14/pnu/)
+* [когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
+* 
 
 * [GRASP](http://ru.wikipedia.org/wiki/GRASP)
 * [Принцип одного уровня абстракции](http://habrahabr.ru/post/126227/)
@@ -79,18 +86,21 @@
 * [Command Query Separation](http://igor.quatrocode.com/2009/10/command-query-separation.html)
 * [SOLID](http://igor.quatrocode.com/2008/09/solid-top-5.html)
 
-## DDD
-
-### Теория
 
 * [Hexagonal/Onion Architecture - слоим приложения](http://igor.quatrocode.com/2009/07/hexagonalonion-architecture.html)
 * [Корень агрегации](http://blog.byndyu.ru/2010/06/domain-driven-design-aggregation-root.html)
 * [Репозиторий](http://blog.byndyu.ru/2011/01/domain-driven-design-repository.html)
-
-### Практика
-
 * [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
 * [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
+
+* [DDD: начало](http://zendframework.ru/forum/index.php?topic=4066.0)
+* 
+
+# Паттерны
+
+* [state_machine](http://www.ict.edu.ru/ft/003756/pattern.pdf)
+
+
 
 # Библиотеки
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
@@ -157,6 +167,9 @@
 * [rubeque.com](http://rubeque.com/)
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
+
+
+
 ***
 
 
