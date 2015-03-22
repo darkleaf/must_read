@@ -78,12 +78,75 @@
 * [Command Query Separation](http://igor.quatrocode.com/2009/10/command-query-separation.html)
 * [SOLID](http://igor.quatrocode.com/2008/09/solid-top-5.html)
 
+## DDD
+
+### Теория
+
+* [Hexagonal/Onion Architecture - слоим приложения](http://igor.quatrocode.com/2009/07/hexagonalonion-architecture.html)
+* [Корень агрегации](http://blog.byndyu.ru/2010/06/domain-driven-design-aggregation-root.html)
+* [Репозиторий](http://blog.byndyu.ru/2011/01/domain-driven-design-repository.html)
+
+### Практика
+
+* [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
+* [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
 
 # Библиотеки
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
 
 
 
+
+
+
+# Книги
+
+## Совершенный код
+
+* [Идеальный программист](http://www.ozon.ru/context/detail/id/7360633/) (Роберт Мартин)
+* [Совершенный код](http://www.ozon.ru/context/detail/id/5508646/) (С. Макконнелл)
+* [Программист-прагматик. Путь от подмастерья к мастеру](http://www.ozon.ru/context/detail/id/3353337/) (Э.Хант, Д.Томас)
+* [Паттерны проектирования](http://www.ozon.ru/context/detail/id/6108824/) (Э. Фримен, Э. Фимен, К. Сьерра, Б. Бейтс)
+* [Приемы объектно-ориентированного проектирования. Паттерны проектирования](http://www.ozon.ru/context/detail/id/2457392/) (Э.Гамма, Р.Хелм, Р.Джонсон, Дж.Влиссидес)
+* [Чистый код](http://www.ozon.ru/context/detail/id/6733562/) (Роберт Мартин)
+* [Принципы, паттерны и методики гибкой разработки на языке C#](http://www.ozon.ru/context/detail/id/5800704/) (Р.С.Мартин, М.Мартин)
+* [Рефакторинг с использованием шаблонов](http://www.ozon.ru/context/detail/id/2909721/) (Джошуа Кериевски)
+* [Архитектура корпоративных приложений](http://www.ozon.ru/context/detail/id/4884925/) (М. Фаулер)
+* [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем](http://www.ozon.ru/context/detail/id/5497184/) (Эрик Эванс)
+* Джоэл о программировании (Джоэл Спольски)
+
+## Базы данных
+
+* [Оптимизация баз данных](http://www.ozon.ru/context/detail/id/1685709/) (Деннис Шаша, Филипп Бонне)
+* [Рефакторинг sql приложений](http://www.ozon.ru/context/detail/id/4491539/)
+* [Рефакторинг баз данных](http://www.ozon.ru/context/detail/id/3261793/) (Скотт В. Эмблер, Эмблер Прамодкумар Дж. Садаладж)
+
+## UML
+
+* [UML основы](http://www.ozon.ru/context/detail/id/6289616/) (М. Фаулер)
+
+## Операционные системы
+
+* [Код](http://www.ozon.ru/context/detail/id/125884/) (Чарльз Петцольд)
+* [Операционные системы](http://www.ozon.ru/context/detail/id/1150703/) (Столлингс)
+* [Операционная система UNIX](http://www.ozon.ru/context/detail/id/2419365/) (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)
+
+## Администрирование
+
+* [Руководство Администратора Linux](http://www.ozon.ru/context/detail/id/3285836/) (Эви Немет, Гарт Снайдер, Трент Хейн)
+
+## Тестирование
+
+* [Непрерывная интеграция](http://www.ozon.ru/context/detail/id/3851770/) (Поль М. Дюваль, Стивен Матиас и Эндрю Гловер)
+
+## ПМ
+
+* [Человеческий фактор. Успешные проекты и команды](http://www.ozon.ru/context/detail/id/2338486/) (Том Демарко и Тимоти Листер)
+* [Мифический человеко-месяц](http://www.ozon.ru/context/detail/id/83760/) (Фредерик Брукс)
+
+## Интересное
+
+* [Как сдвинуть гору фудзи?](http://www.ozon.ru/context/detail/id/4780454/) (У. Паундстоун)
 
 
 
@@ -120,65 +183,7 @@
 
 
 
-### Совершенный код
 
-* [Идеальный программист](http://www.ozon.ru/context/detail/id/7360633/) (Роберт Мартин)
-* [Совершенный код](http://www.ozon.ru/context/detail/id/5508646/) (С. Макконнелл)
-* [Программист-прагматик. Путь от подмастерья к мастеру](http://www.ozon.ru/context/detail/id/3353337/) (Э.Хант, Д.Томас)
-* [Паттерны проектирования](http://www.ozon.ru/context/detail/id/6108824/) (Э. Фримен, Э. Фимен, К. Сьерра, Б. Бейтс)
-* [Приемы объектно-ориентированного проектирования. Паттерны проектирования](http://www.ozon.ru/context/detail/id/2457392/) (Э.Гамма, Р.Хелм, Р.Джонсон, Дж.Влиссидес)
-* [Чистый код](http://www.ozon.ru/context/detail/id/6733562/) (Роберт Мартин)
-* [Принципы, паттерны и методики гибкой разработки на языке C#](http://www.ozon.ru/context/detail/id/5800704/) (Р.С.Мартин, М.Мартин)
-* [Рефакторинг с использованием шаблонов](http://www.ozon.ru/context/detail/id/2909721/) (Джошуа Кериевски)
-* [Архитектура корпоративных приложений](http://www.ozon.ru/context/detail/id/4884925/) (М. Фаулер)
-* [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем](http://www.ozon.ru/context/detail/id/5497184/) (Эрик Эванс)
-<!--* [Джоэл о программировании]() (Джоэл Спольски)-->
-
-### Базы данных
-
-* [Оптимизация баз данных](http://www.ozon.ru/context/detail/id/1685709/) (Деннис Шаша, Филипп Бонне)
-* [Рефакторинг sql приложений](http://www.ozon.ru/context/detail/id/4491539/)
-* [Рефакторинг баз данных](http://www.ozon.ru/context/detail/id/3261793/) (Скотт В. Эмблер, Эмблер Прамодкумар Дж. Садаладж)
-
-### UML
-
-* [UML основы](http://www.ozon.ru/context/detail/id/6289616/) (М. Фаулер)
-
-### Операционные системы
-
-* [Код](http://www.ozon.ru/context/detail/id/125884/) (Чарльз Петцольд)
-* [Операционные системы](http://www.ozon.ru/context/detail/id/1150703/) (Столлингс)
-* [Операционная система UNIX](http://www.ozon.ru/context/detail/id/2419365/) (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)
-
-### Администрирование
-
-* [Руководство Администратора Linux](http://www.ozon.ru/context/detail/id/3285836/) (Эви Немет, Гарт Снайдер, Трент Хейн)
-
-### Тестирование
-
-* [Непрерывная интеграция](http://www.ozon.ru/context/detail/id/3851770/) (Поль М. Дюваль, Стивен Матиас и Эндрю Гловер)
-
-### ПМ
-
-* [Человеческий фактор. Успешные проекты и команды](http://www.ozon.ru/context/detail/id/2338486/) (Том Демарко и Тимоти Листер)
-* [Мифический человеко-месяц](http://www.ozon.ru/context/detail/id/83760/) (Фредерик Брукс)
-
-### Интересное
-
-* [Как сдвинуть гору фудзи?](http://www.ozon.ru/context/detail/id/4780454/) (У. Паундстоун)
-
-
-
-### Теория
-
-* [Hexagonal/Onion Architecture - слоим приложения](http://igor.quatrocode.com/2009/07/hexagonalonion-architecture.html)
-* [Корень агрегации](http://blog.byndyu.ru/2010/06/domain-driven-design-aggregation-root.html)
-* [Репозиторий](http://blog.byndyu.ru/2011/01/domain-driven-design-repository.html)
-
-### Практика
-
-* [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
-* [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
 
 ### Основные
 
