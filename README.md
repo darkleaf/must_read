@@ -12,14 +12,15 @@
 
 # Документация
 
-* [guides.rubyonrails](http://guides.rubyonrails.org/)
-* [api.rubyonrails.org](http://api.rubyonrails.org/)
-* [nashbridges.me](http://nashbridges.me/)
 * [rails guides](http://guides.rubyonrails.org/)
+* [rusrails](http://rusrails.ru/)
+* [api.rubyonrails.org](http://api.rubyonrails.org/)
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
-* [Rails Searchable API Doc](http://railsapi.com/)
-* [rusrails](http://rusrails.ru/)
+
+# Блоги
+
+* [nashbridges.me](http://nashbridges.me/)
 
 # Ruby
 
