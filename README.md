@@ -4,6 +4,24 @@
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
 
 
+# Ruby
+
+* [Иерархия ошибок в Ruby](http://leonid.shevtsov.me/ru/ierarhiya-oshibok-v-ruby-a-takzhe-kakie-isklyucheniya-nuzhno-brosat-a-kakie-lovit)
+* [Объектная модель в Ruby](http://7vn.ru/blog/2011/11/18/object-model/)
+* [Введение в объектно-ориентированный Ruby](http://nashbridges.me/introducing-ruby-oop)
+* [Вникаем в include и extend](http://habrahabr.ru/post/143483/)
+* [Гномики и метапрограммирование в Ruby](http://rubyflow.ru/items/1130)
+* [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
+* [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
+
+## Gems
+
+* [Gem глазами потребителя](http://nashbridges.me/gem-for-end-user)
+* [Learn how RubyGems works, and how to make your own](http://guides.rubygems.org/)
+* [Bundler](http://bundler.io/)
+
+
+
 ### Полезное
 
 * [Коды возврата & исключения](http://habrahabr.ru/post/131212/)
@@ -20,17 +38,6 @@
 ### Методики
 
 * [Экстремальное программирование – реальность и мифы](http://www.skipy.ru/philosophy/xp.html)
-
-### Ruby
-
-* [Иерархия ошибок в Ruby](http://leonid.shevtsov.me/ru/ierarhiya-oshibok-v-ruby-a-takzhe-kakie-isklyucheniya-nuzhno-brosat-a-kakie-lovit)
-* [Объектная модель в Ruby](http://7vn.ru/blog/2011/11/18/object-model/)
-* [Введение в объектно-ориентированный Ruby](http://nashbridges.me/introducing-ruby-oop)
-* [Вникаем в include и extend](http://habrahabr.ru/post/143483/)
-* [Гномики и метапрограммирование в Ruby](http://rubyflow.ru/items/1130)
-* [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
-* [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
-
 
 ### Rails
 
