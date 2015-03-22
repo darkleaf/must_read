@@ -2,7 +2,7 @@
 
 * [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
-
+* [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
 
 # Ruby
 
@@ -20,6 +20,26 @@
 * [Learn how RubyGems works, and how to make your own](http://guides.rubygems.org/)
 * [Bundler](http://bundler.io/)
 
+## Документация
+
+* [nashbridges.me](http://nashbridges.me/)
+* [rails guides](http://guides.rubyonrails.org/)
+* [apidock.com](http://apidock.com)
+* [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
+* [api.rubyonrails.org](http://api.rubyonrails.org/)
+* [Rails Searchable API Doc](http://railsapi.com/)
+* [rusrails](http://rusrails.ru/)
+
+## Сервисы для изучения ruby
+
+[try ruby](http://tryruby.org/)
+[rubeque.com](http://rubeque.com/)
+[rubymonk.com](http://rubymonk.com/)
+[codecademy](http://www.codecademy.com/ru/tracks/ruby)
+
+
+
+***
 
 
 ### Полезное
@@ -255,22 +275,7 @@ monit
 
 
 
-### Документация
 
-* [nashbridges.me](http://nashbridges.me/)
-* [rails guides](http://guides.rubyonrails.org/)
-* [apidock.com](http://apidock.com)
-* [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
-* [api.rubyonrails.org](http://api.rubyonrails.org/)
-* [Rails Searchable API Doc](http://railsapi.com/)
-* [rusrails](http://rusrails.ru/)
-
-### Сервисы для изучения ruby
-
-[try ruby](http://tryruby.org/)
-[rubeque.com](http://rubeque.com/)
-[rubymonk.com](http://rubymonk.com/)
-[codecademy](http://www.codecademy.com/ru/tracks/ruby)
 
 ### Блоги
 
