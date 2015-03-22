@@ -1,4 +1,6 @@
-**Статья Кирилла Мокевнина** [ссылка](https://github.com/kaize/kaize.github.io/blob/master/_posts/2012-04-21-a-hierarchy-of-controllers.md)
+**Статья Кирилла Мокевнина** [ссылка](https://github.com/kaize/kaize.github.io/blob/master/_posts/2012-04-21-a-hierarchy-of-controllers.md) [хабр](http://habrahabr.ru/post/136461/)
+
+Поместил сюда дабы не потерять.
 
 # Иерархия контроллеров
 
