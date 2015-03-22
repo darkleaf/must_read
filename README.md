@@ -31,11 +31,12 @@
 
 # Документация
 
+* [guides.rubyonrails](http://guides.rubyonrails.org/)
+* [api.rubyonrails.org](http://api.rubyonrails.org/)
 * [nashbridges.me](http://nashbridges.me/)
 * [rails guides](http://guides.rubyonrails.org/)
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
-* [api.rubyonrails.org](http://api.rubyonrails.org/)
 * [Rails Searchable API Doc](http://railsapi.com/)
 * [rusrails](http://rusrails.ru/)
 
