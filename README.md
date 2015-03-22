@@ -32,10 +32,10 @@
 
 ## Сервисы для изучения ruby
 
-[try ruby](http://tryruby.org/)
-[rubeque.com](http://rubeque.com/)
-[rubymonk.com](http://rubymonk.com/)
-[codecademy](http://www.codecademy.com/ru/tracks/ruby)
+* [try ruby](http://tryruby.org/)
+* [rubeque.com](http://rubeque.com/)
+* [rubymonk.com](http://rubymonk.com/)
+* [codecademy](http://www.codecademy.com/ru/tracks/ruby)
 
 
 
