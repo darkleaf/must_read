@@ -6,6 +6,7 @@ TODO: подумать над структурой
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
 * [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
 * [Человеческий фактор или «соглашения не работают»](http://megamozg.ru/post/1240/)
+* [The Zen of Python](https://ru.wikipedia.org/wiki/Python#.D0.A4.D0.B8.D0.BB.D0.BE.D1.81.D0.BE.D1.84.D0.B8.D1.8F)
 
 # Styleguide
 
@@ -17,9 +18,9 @@ TODO: подумать над структурой
 
 * [rails guides](http://guides.rubyonrails.org/)
 * [rusrails](http://rusrails.ru/)
+* [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
 * [api.rubyonrails.org](http://api.rubyonrails.org/)
 * [apidock.com](http://apidock.com)
-* [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
 
 # Ruby
 
@@ -30,6 +31,8 @@ TODO: подумать над структурой
 * [Гномики и метапрограммирование в Ruby](http://rubyflow.ru/items/1130)
 * [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
 * [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
+* [Когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
+* [value object](http://www.sitepoint.com/value-objects-explained-with-ruby/)
 
 # Gems
 
@@ -49,8 +52,6 @@ TODO: подумать над структурой
 * [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
 * [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
 * [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
-
-* [asset-pipeline](http://rusrails.ru/asset-pipeline)
 
 # Правила
 
@@ -94,12 +95,7 @@ TODO: подумать над структурой
 
 * [Разделение получения и использования](http://mokevnin.github.io/blog/2012/06/03/razdelenie-polucheniya-i-ispolzovaniya/)
 * [Принцип наименьшего удивления (ПНУ)](http://mokevnin.github.io/blog/2013/11/14/pnu/)
-* [когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
-
-* [value object](http://www.sitepoint.com/value-objects-explained-with-ruby/)
- 
 * [RESTful API для сервера – делаем правильно](http://habrahabr.ru/post/144011/)
-
 * [GRASP](http://ru.wikipedia.org/wiki/GRASP)
 * [Принцип одного уровня абстракции](http://habrahabr.ru/post/126227/)
 * [Закон Деметры](http://msdn.microsoft.com/ru-ru/magazine/cc947917.aspx)
@@ -114,7 +110,7 @@ TODO: подумать над структурой
 * [Корень агрегации](http://blog.byndyu.ru/2010/06/domain-driven-design-aggregation-root.html)
 * [Репозиторий](http://blog.byndyu.ru/2011/01/domain-driven-design-repository.html)
 * [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
-* [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
+* [DDD подход к решению задачи сложной фильтрации данных](http://web.archive.org/web/20120902021132/http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
 * [DDD: начало](http://zendframework.ru/forum/index.php?topic=4066.0)
 
 # Паттерны
@@ -126,7 +122,44 @@ TODO: подумать над структурой
 # Библиотеки
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
 
+* [state_machine](https://github.com/state-machines/state_machines-activerecord)
+* [validates](https://github.com/kaize/validates) - частые валидации (email, slug)
+* [simple_form](https://github.com/plataformatec/simple_form) - формы на стероидах
+* [webmock](https://github.com/bblimke/webmock) - stub/mock для io
+* [simplecov](https://github.com/colszowka/simplecov) - test coverage
+* [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) - Удобная замена фикстур
+* [ransack](https://github.com/ernie/ransack) - Object-based searching (бывший MetaSearch)
+* [enumerize](https://github.com/brainspec/enumerize) - поле типа перечисление с поддержкой I18n и ActiveRecord/Mongoid
+* [js-routes](https://github.com/railsware/js-routes) - генерирует javascript файл содержащий именованные пути из rake routes 
+* [gon](https://github.com/gazay/gon) - Your Rails variables in your JS
+* [backup](https://github.com/meskyanichi/backup)
+* [ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure (MP)
+* [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails)
+* [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts
+* [cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
+* [money](https://github.com/RubyMoney/money) - Реализация паттерна [Money](http://martinfowler.com/eaaCatalog/money.html) для Ruby
+* [omniauth](https://github.com/intridea/omniauth) - Масштабируемая система OAuth авторизации
 
+## Black list
+
+* device
+* active_admin
+* can_can
+* paperclip
+
+
+# JS
+
+* [http://superherojs.com/](http://superherojs.com/)
+* [http://shichuan.github.com/javascript-patterns/](http://shichuan.github.com/javascript-patterns/)
+* [http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html)
+* [http://addyosmani.github.com/todomvc/](http://addyosmani.github.com/todomvc/)
+* [http://github.com/madrobby/keymaster](http://github.com/madrobby/keymaster)
+
+# JS libs
+
+* [Moment.js](http://momentjs.com/) ([gem](http://github.com/derekprior/momentjs-rails))
+* Lodash
 
 # Блоги
 
@@ -207,6 +240,22 @@ TODO: подумать над структурой
 
 
 
+# Сервисы
+
+* [ruby-toolbox](https://www.ruby-toolbox.com/)
+* [airbrake](https://airbrakeapp.com/)
+* [newrelic.com](http://newrelic.com/)
+* [travis-ci](http://travis-ci.org/)
+* [codeclimate.com](https://codeclimate.com)
+* [relishapp.com](https://www.relishapp.com/)
+* [lucidchart.com](https://www.lucidchart.com/)
+* [gemnasium.com](https://gemnasium.com/)
+* [stillmaintained.com](http://stillmaintained.com/)
+* [coderwall.com](http://coderwall.com/)
+* [cloud9 IDE](http://c9.io/)
+
+
+
 # Сервисы для изучения ruby
 
 * [try ruby](http://tryruby.org/)
@@ -214,160 +263,7 @@ TODO: подумать над структурой
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
 
-
-# Благодарности
-
-Огромное спасибо команде [kaize](https://github.com/kaize/).
-
-
-***
-
-
-
-
-
-
-
-### Основные
-
-* [configus](https://github.com/kaize/configus) - управление конфигурациями 
-* [haml-rails](https://github.com/indirect/haml-rails)
-* [pg](https://bitbucket.org/ged/ruby-pg) - PostgreSQL
-* [unicorn](http://unicorn.bogomips.org) - web сервер
-* [state_machine](https://github.com/pluginaweek/state_machine)
-* [airbrake](https://airbrakeapp.com)
-* [validates](https://github.com/kaize/validates) - частые валидации (email, slug)
-* [simple_form](https://github.com/plataformatec/simple_form) - формы на стероидах
-* [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - интеграция tw в rails
-* [kaminari](https://github.com/amatsuda/kaminari) - пейджинг
-* [capi](https://github.com/kaize/capi) - полезняшки для деплоя (например управление запуском unicorn)
-* [capistrano](https://github.com/capistrano/capistrano) - деплой
-* [rvm-capistrano](https://github.com/wayneeseguin/rvm-capistrano) - интеграция RVM / Capistrano
-* [capistrano-ext](https://github.com/jamis/capistrano-ext) - добавляем staging
-* [minitest](https://github.com/seattlerb/minitest)
-* [mocha](https://github.com/freerange/mocha) - stub/mock для тестирования
-* [webmock](https://github.com/bblimke/webmock) - stub/mock для io
-* [simplecov](https://github.com/colszowka/simplecov) - test coverage
-* [ci_reporter](https://github.com/nicksieger/ci_reporter) - Генератор отчётов для тестов
-* [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) - Удобная замена фикстур
-* [turn](https://github.com/TwP/turn) - A new look and feel for Test::Unit output
-* [tconsole](https://github.com/commondream/tconsole) - тестовая консоль
-* [ransack](https://github.com/ernie/ransack) - Object-based searching (бывший MetaSearch)
-
-### Дополнителные
-
-* [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails) - jQuery UI Bootstrap
-* [enumerize](https://github.com/brainspec/enumerize) - поле типа перечисление с поддержкой I18n и ActiveRecord/Mongoid
-* [ya_acl](https://github.com/kaize/ya_acl) - управление правами на основе ACL
-* [js-routes](https://github.com/railsware/js-routes) - генерирует javascript файл содержащий именованные пути из rake routes 
-* [gon](https://github.com/gazay/gon) - Your Rails variables in your JS
-* [resque](https://github.com/defunkt/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-* [thinking-sphinx](http://freelancing-god.github.com/ts/en/) - A Ruby connector between Sphinx and ActiveRecord.
-* [whenever](https://github.com/javan/whenever) - Cron jobs in Ruby
-* [carrierwave](https://github.com/jnicklas/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-* [backup](https://github.com/meskyanichi/backup)
-* [ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure (MP)
-* [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails)
-* [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts
-* [cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
-* [money](https://github.com/RubyMoney/money) - Реализация паттерна [Money](http://martinfowler.com/eaaCatalog/money.html) для Ruby
-* [omniauth](https://github.com/intridea/omniauth) - Масштабируемая система OAuth авторизации
-
-### Black list
-
-* device
-* meta_search - устарел. Следует использовать ransak
-
-
-
-
-
-### Библиотеки
-
-* [JQuery](http://jquery.com/)
-* [JQuery UI](http://jqueryui.com/) ([gem](http://github.com/jquery/jquery-ui))
-* [Underscore.js](http://underscorejs.org/) ([gem](http://github.com/rweng/underscore-rails))
-* [Underscore.string](http://epeli.github.com/underscore.string/) ([gem](https://github.com/jaimie-van-santen/underscore-string-rails))
-* [Moment.js](http://momentjs.com/) ([gem](http://github.com/derekprior/momentjs-rails))
-* [json2](https://github.com/douglascrockford/JSON-js)
-
-### Фреймворки
-
-* [Backbone](http://backbonejs.org/) ([gem](http://github.com/codebrew/backbone-rails))
-* [Ember.js](http://emberjs.com/) ([gem](https://github.com/emberjs/ember-rails))
-
-### Плагины
-
-* [Chosen](http://harvesthq.github.com/chosen/) ([gem](http://github.com/tsechingho/chosen-rails))
-* [select2](http://ivaynberg.github.com/select2/) ([gem](https://github.com/argerim/select2-rails))
-
-### Полезное
-
-* [http://superherojs.com/](http://superherojs.com/)
-* [http://shichuan.github.com/javascript-patterns/](http://shichuan.github.com/javascript-patterns/)
-* [http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html)
-* [http://addyosmani.github.com/todomvc/](http://addyosmani.github.com/todomvc/)
-* [http://github.com/madrobby/keymaster](http://github.com/madrobby/keymaster)
-
-
-
-
-* [Rails Devops Cheatsheet](http://rubytune.com/cheat)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Сервисы
-
-* [ruby-toolbox](https://www.ruby-toolbox.com/)
-* [airbrake](https://airbrakeapp.com/)
-* [newrelic.com](http://newrelic.com/)
-* [travis-ci](http://travis-ci.org/)
-* [relishapp.com](https://www.relishapp.com/)
-* [lucidchart.com](https://www.lucidchart.com/)
-* [gemnasium.com](https://gemnasium.com/)
-* [stillmaintained.com](http://stillmaintained.com/)
-
-* [coderwall.com](http://coderwall.com/)
-* [cloud9 IDE](http://c9.io/)
-* [railsbp.com](http://railsbp.com/)
-* [codeclimate.com](https://codeclimate.com)
-
-
-### Полезное
-
-* [braingames.ru](http://braingames.ru/)
-* [bigocheatsheet](http://bigocheatsheet.com/)
-
-
-
-
-### Setup
-
-[rvm](https://rvm.io/)
-
-### Ruby
-
-http://nashbridges.me/gem-for-end-user
-
-### Rails
-
-
-
-title: "Twitter Bootstrap"
----
-{% include JB/setup %}
+# Twitter Bootstrap
 
 * [Bootstrap, from Twitter](http://twitter.github.com/bootstrap/)
 * [resources 1](http://bootsnipp.com/resources)
@@ -378,12 +274,7 @@ title: "Twitter Bootstrap"
 * [WrapBootstrap](http://wrapbootstrap.com/)
 * [Boot snipp](http://bootsnipp.com/)
 
-
-title: "Vim"
-category: vim
-tags: [vim]
----
-{% include JB/setup %}
+# Vim
 
 * [Как пользоваться vim](http://ru.najomi.org/vim)
 * [vimcasts](http://vimcasts.org/)
@@ -394,119 +285,19 @@ tags: [vim]
 * [Graphical Cheat Sheet](http://habrahabr.ru/post/28200/)
 * [vim-adventures](http://vim-adventures.com/)
 
-
----
-layout: page
-title: "Рабочее окружение"
----
-{% include JB/setup %}
-
-### gitflow
-
-[Удачная модель ветвления](http://habrahabr.ru/post/106912/)
-
-[git extension](https://github.com/nvie/gitflow.git)
-
-[Getting Started – Git-Flow](http://yakiloo.com/getting-started-git-flow/)
-
-### soft
+# Soft
 
 * keepassx - password manager
-* dropbox
+* [BitTorrent Sync](https://www.getsync.com/)
 
-### chrome extensions
+# chrome extensions
 
-[Ruby on Rails API Search](https://chrome.google.com/webstore/detail/ruby-on-rails-api-search/nbhhppofdccphcpbilanmljnlkmbgike)
+* [Ruby on Rails API Search](https://chrome.google.com/webstore/detail/ruby-on-rails-api-search/nbhhppofdccphcpbilanmljnlkmbgike)
+* [XV - XML Viewer](https://chrome.google.com/webstore/detail/eeocglpgjdpaefaedpblffpeebgmgddk)
+* [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
+* [Advanced REST client Application](https://chrome.google.com/webstore/detail/hgmloofddffdnphfgcellkdfbfbjeloo/related?utm_source=chrome-ntp-icon)
+* [NewRelic + Airbrake](https://chrome.google.com/webstore/detail/newrelic-%2B-airbrake-for-g/emencamphkobkmeloepceomcacgejlnc)
 
-[XV - XML Viewer](https://chrome.google.com/webstore/detail/eeocglpgjdpaefaedpblffpeebgmgddk)
+# Благодарности
 
-[JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
-
-[Advanced REST client Application](https://chrome.google.com/webstore/detail/hgmloofddffdnphfgcellkdfbfbjeloo/related?utm_source=chrome-ntp-icon)
-
-[NewRelic + Airbrake](https://chrome.google.com/webstore/detail/newrelic-%2B-airbrake-for-g/emencamphkobkmeloepceomcacgejlnc)
-
-### vim
-
-[AkitaOnRails Vimfiles](https://github.com/akitaonrails/vimfiles)
-
-### ~/.vimrc for akita
-
-{% highlight vim linenos %}
-
-    let mapleader = ","
-    let g:ackprg="ack-grep -H --nocolor --nogroup --column"
-
-    source ~/.vim/vimrc
-
-    "explorer mappings
-    nnoremap <f3> :TlistToggle<cr>
-    nnoremap <f2> :NERDTreeToggle<CR>
-
-{% endhighlight %}
-
-### ~/.bashrc
-
-{% highlight bash linenos %}
-
-    export PS1='\w$(__git_ps1 "(%s)"): '
-    PS1="\$(~/.rvm/bin/rvm-prompt i v p g) $PS1"
-
-{% endhighlight %}
-
-### ~/.gitconfig
-
-{% highlight bash linenos %}
-
-[color]
-  branch = auto
-  diff = auto
-  interactive = auto
-  status = auto
-  ui = auto
-  pager = true
-
-[merge]
-  summary=true
-
-[alias]
-  b = branch -v
-  r = remote -v
-  t = tag -l
-  cp = cherry-pick -x
-  co = checkout
-  br = branch
-  ci = commit
-  st = status -sb
-  ds = diff --staged
-  amend = commit --amend -C HEAD
-  undo = reset --soft HEAD^
-	unstage = reset HEAD --
-  uncommit = reset --soft HEAD^
-	last = log -1 HEAD
-	up = pull --rebase
-	put = push origin HEAD
-	latest = for-each-ref --sort=-committerdate --format='%(committerdate:short) %(refname:short) [%(committername)]'
-  ls = log  --decorate --date=short
-  graph = log --graph --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset'
-
-{% endhighlight %}
-
-### ~/.caprc
-
-{% highlight ruby linenos %}
-
-    # gem install capistrano_colors
-    # aptitude install libnotify-bin
-
-    def notify(message, body, urgency, icon = :info)
-      system("notify-send --urgency=#{urgency} --icon=#{icon} '#{message}' '#{body}'")
-    end
-
-    on :exit do
-      notify('Capistrano Task: Finished', ARGV.join(' '), :low)
-    end
-
-    require 'capistrano_colors'
-
-{% endhighlight %}
+Огромное спасибо команде [kaize](https://github.com/kaize/).
