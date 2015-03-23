@@ -21,10 +21,6 @@ TODO: подумать над структурой
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
 
-# Блоги
-
-* [nashbridges.me](http://nashbridges.me/)
-
 # Ruby
 
 * [Иерархия ошибок в Ruby](http://leonid.shevtsov.me/ru/ierarhiya-oshibok-v-ruby-a-takzhe-kakie-isklyucheniya-nuzhno-brosat-a-kakie-lovit)
@@ -74,6 +70,10 @@ TODO: подумать над структурой
 
 * [guides.github.com](https://guides.github.com/)
 
+# Postgresql
+
+* [полнотекстовый поиск](https://mkdev.me/posts/kak-delat-full-text-poisk-v-rails-pri-pomoschi-postgresql)
+
 # Проектирование
 
 * [Разделение получения и использования](http://mokevnin.github.io/blog/2012/06/03/razdelenie-polucheniya-i-ispolzovaniya/)
@@ -116,8 +116,18 @@ TODO: подумать над структурой
 
 
 
+# Блоги
 
+* [nashbridges.me](http://nashbridges.me/)
+* [rubyflow.ru](http://rubyflow.ru/)
+* [Технические заметки одного Евтуховича](http://evtuhovich.ru/)
+* [solnic.eu](http://solnic.eu/)
+* [Блог Леонида Шевцова](http://leonid.shevtsov.me/ru)
 
+### Casts
+
+* [railscasts](http://railscasts.com/)
+* [asciicasts](http://asciicasts.com/)
 
 # Книги
 
@@ -329,27 +339,8 @@ monit
 
 
 
-### Блоги
 
-* [rubyflow.ru](http://rubyflow.ru/)
-* [rails-bestpractices.com](http://rails-bestpractices.com/)
-* [нестройные рубиновые мысли](http://blog.evtuhovich.ru/)
-* [yehudakatz.com](http://yehudakatz.com/)
-* [solnic.eu](http://solnic.eu/)
-* [ruby on rails с нуля](http://rubydev.ru/)
-* [Блог Леонида Шевцова](http://leonid.shevtsov.me/ru)
-* [7vn.ru](http://7vn.ru/)
-* [Mitch Crowe](http://blog.mitchcrowe.com/)
 
-### Casts
-
-* [railscasts](http://railscasts.com/)
-* [asciicasts](http://asciicasts.com/)
-* [hasBrains](http://ruby.hasbrains.ru/)
-
-### Комьюнити
-
-* [ror2ru](https://groups.google.com/forum/?hl=ru&fromgroups#!forum/ror2ru)
 
 ### Сервисы
 
