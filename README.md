@@ -74,16 +74,13 @@ TODO: подумать над структурой
 * [Github flow](https://guides.github.com/introduction/flow/)
 * [GitHub Flow: рабочий процесс Гитхаба](http://habrahabr.ru/post/189046/)
 * [Git flow / Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
-* [Pro Git](http://git-scm.com/book/ru/v1)
-* [tryGit](http://try.github.com/)
-* [GitHowTo](http://githowto.com/)
-* [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
-* (Думай как Git, руководство по Git)[http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/]
+* [Pro Git](http://git-scm.com/book/ru)
+* [Думай как Git, руководство по Git](http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/)
 * [Внтутреннее устройство Git](http://www.opennet.ru/base/dev/git_guts.txt.html)
 * [Что скрывает от нас директория .git](http://habrahabr.ru/post/143079/)
-* [pro git](http://progit.org/book/ru/)
-* [Architecture of Git](http://www.aosabook.org/en/git.html)
 * [Git Tips From the Pros](http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/)
+* [tryGit](http://try.github.com/)
+* [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
 
 # Github
 
