@@ -40,12 +40,9 @@ TODO: подумать над структурой
 # Rails
 
 * [Иерархия контроллеров](http://habrahabr.ru/post/136461/)
-
 * [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
-* [ActiveRecord Query Interface 3.0](http://habrahabr.ru/post/82767/)
 * [Give Rails Autoloading a Boot to the Head](http://wondible.com/2011/12/23/give-rails-autoloading-a-boot-to-the-head/)
-* [Time.now против Time.zone.now в Rails](http://leonid.shevtsov.me/ru/time-now-vs-time-zone-now-in-rails)
 * [Что же такое Railtie, Engine и Plugin?](http://memo.undr.su/2011/04/01/chto-zhe-takoe-railtie-engine-i-plugin/)
 * [Does My Rails App Need a Service Layer?](http://blog.carbonfive.com/2012/01/10/does-my-rails-app-need-a-service-layer/)
 * [Rails is not your application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html)
@@ -54,6 +51,23 @@ TODO: подумать над структурой
 * [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
 
 * [asset-pipeline](http://rusrails.ru/asset-pipeline)
+
+# Правила
+
+* DateTime.current
+* На функциональные баги пишется тест;
+* Запросы к базе только в моделях, снаружи scopes или методы;
+* Не используем default_scopes;
+* Используем новый формат валидаторов (validators);
+* Все константы (magic numbers, urls) подставляются через конфиги и не пишутся в коде;
+* В шаблонах можно использовать числа: для вывода массива в 3 колонки;
+* Строки через локали;
+* Можно локализировать partial целиком;
+* Покрытие контроллеров > 90%;
+* Объекты получаем отдельно, используем отдельно;
+* Извлекаем информацию из БД за постоянное число запросов(см. N+1);
+* Не увлекаемся индексами: стало тормозить - добавили индекс;
+* На уникальное поле - уникальный индекс (+ uniqueness).
 
 # Git
 
@@ -64,7 +78,12 @@ TODO: подумать над структурой
 * [tryGit](http://try.github.com/)
 * [GitHowTo](http://githowto.com/)
 * [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
-* (думай как гит)[http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/]
+* (Думай как Git, руководство по Git)[http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/]
+* [Внтутреннее устройство Git](http://www.opennet.ru/base/dev/git_guts.txt.html)
+* [Что скрывает от нас директория .git](http://habrahabr.ru/post/143079/)
+* [pro git](http://progit.org/book/ru/)
+* [Architecture of Git](http://www.aosabook.org/en/git.html)
+* [Git Tips From the Pros](http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/)
 
 # Github
 
@@ -94,16 +113,12 @@ TODO: подумать над структурой
 * [Принцип инверсии зависимостей](http://blog.byndyu.ru/2009/12/blog-post.html)
 * [Command Query Separation](http://igor.quatrocode.com/2009/10/command-query-separation.html)
 * [SOLID](http://igor.quatrocode.com/2008/09/solid-top-5.html)
-
-
 * [Hexagonal/Onion Architecture - слоим приложения](http://igor.quatrocode.com/2009/07/hexagonalonion-architecture.html)
 * [Корень агрегации](http://blog.byndyu.ru/2010/06/domain-driven-design-aggregation-root.html)
 * [Репозиторий](http://blog.byndyu.ru/2011/01/domain-driven-design-repository.html)
 * [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
 * [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
-
 * [DDD: начало](http://zendframework.ru/forum/index.php?topic=4066.0)
-* 
 
 # Паттерны
 
@@ -118,16 +133,31 @@ TODO: подумать над структурой
 
 # Блоги
 
+* [Бындю](http://blog.byndyu.ru)
 * [nashbridges.me](http://nashbridges.me/)
 * [rubyflow.ru](http://rubyflow.ru/)
 * [Технические заметки одного Евтуховича](http://evtuhovich.ru/)
 * [solnic.eu](http://solnic.eu/)
 * [Блог Леонида Шевцова](http://leonid.shevtsov.me/ru)
 
-### Casts
+# Casts
 
 * [railscasts](http://railscasts.com/)
 * [asciicasts](http://asciicasts.com/)
+
+# Статьи
+
+* [Коды возврата & исключения](http://habrahabr.ru/post/131212/)
+* [устройство индексов](http://www.sql.ru/articles/mssql/03013101indexes.shtml)
+* [Defensive Design. Откуда берутся сбои](http://igor.quatrocode.com/2009/02/defensive-design.html)
+* [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
+* [REST](http://habrahabr.ru/post/144011/)
+* [UML](http://habrahabr.ru/post/150041/)
+* [CLI](http://habrahabr.ru/post/150950/)
+* [Протокол HTTP](http://squadette.ru/blog/2012/01/19/high-scalability/)
+* [Алгоритмы и структурыданных](http://squadette.ru/blog/2012/01/19/high-scalability-2/)
+* [Анатомия ошибок](http://goblingame.blogspot.ru/2012/10/blog-post_12.html)
+* [Экстремальное программирование – реальность и мифы](http://www.skipy.ru/philosophy/xp.html)
 
 # Книги
 
@@ -190,33 +220,12 @@ TODO: подумать над структурой
 
 # Благодарности
 
-Огромное спасибо команде [kaize](https://github.com/kaize/)
+Огромное спасибо команде [kaize](https://github.com/kaize/).
 
 
 ***
 
 
-### Полезное
-
-* [Коды возврата & исключения](http://habrahabr.ru/post/131212/)
-* [устройство индексов](http://www.sql.ru/articles/mssql/03013101indexes.shtml)
-* [Defensive Design. Откуда берутся сбои](http://igor.quatrocode.com/2009/02/defensive-design.html)
-* [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
-* [REST](http://habrahabr.ru/post/144011/)
-* [UML](http://habrahabr.ru/post/150041/)
-* [CLI](http://habrahabr.ru/post/150950/)
-* [Протокол HTTP](http://squadette.ru/blog/2012/01/19/high-scalability/)
-* [Алгоритмы и структуры
-данных](http://squadette.ru/blog/2012/01/19/high-scalability-2/)
-
-### Методики
-
-* [Экстремальное программирование – реальность и мифы](http://www.skipy.ru/philosophy/xp.html)
-
-
-### PM
-
-* [Анатомия ошибок](http://goblingame.blogspot.ru/2012/10/blog-post_12.html)
 
 
 
@@ -273,12 +282,7 @@ TODO: подумать над структурой
 * meta_search - устарел. Следует использовать ransak
 
 
-* [Думай как Git, руководство по Git](http://git.geekjob.ru/epic-mode/)
-* [Внтутреннее устройство Git](http://www.opennet.ru/base/dev/git_guts.txt.html)
-* [Что скрывает от нас директория .git](http://habrahabr.ru/post/143079/)
-* [pro git](http://progit.org/book/ru/)
-* [Architecture of Git](http://www.aosabook.org/en/git.html)
-* [Git Tips From the Pros](http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/)
+
 
 
 ### Библиотеки
@@ -315,21 +319,6 @@ TODO: подумать над структурой
 
 
 
-### Статьи
-
-сначала получаем, затем используем
-skip_filters
-application_controller не свалка методов
-условие по агрегату - метод
-autoloading
-
-### Куда?
-
-chef
-vagrant
-runit
-monit
-
 
 
 
@@ -358,34 +347,11 @@ monit
 * [railsbp.com](http://railsbp.com/)
 * [codeclimate.com](https://codeclimate.com)
 
-### Chef
-
-* [foodcritic](http://acrmp.github.com/foodcritic/)
-* [chef-solo ecample](https://github.com/le0pard/chef-solo-example)
-
-### Runit
-
-* [runit for ruby](http://rubyists.github.com/2011/05/02/runit-for-ruby-and-everything-else.html)
 
 ### Полезное
 
 * [braingames.ru](http://braingames.ru/)
 * [bigocheatsheet](http://bigocheatsheet.com/)
-
-
-
-
-* У всех сущностей есть поле state для состояний;
-* На функциональные баги пишется тест;
-* Запросы к базе только в моделях, снаружи scopes;
-* Не используем default_scopes;
-* Используем новый формат валидаторов (validators);
-* Все константы (magic numbers, urls) подставляются через конфиги и не пишутся в коде;
-* Строки через локали;
-* Покрытие контроллеров > 90%;
-* Объекты получаем отдельно, используем отдельно;
-* Используем git flow
-* На уникальное поле - уникальный индекс (+ uniqueness).
 
 
 
