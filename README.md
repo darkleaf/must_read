@@ -7,6 +7,8 @@ TODO: подумать над структурой
 * [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
 * [Человеческий фактор или «соглашения не работают»](http://megamozg.ru/post/1240/)
 * [The Zen of Python](https://ru.wikipedia.org/wiki/Python#.D0.A4.D0.B8.D0.BB.D0.BE.D1.81.D0.BE.D1.84.D0.B8.D1.8F)
+* [Утиная типизация](https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%B8%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+* [Рефлексия](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
 
 # Styleguide
 
@@ -33,6 +35,7 @@ TODO: подумать над структурой
 * [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
 * [Когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
 * [value object](http://www.sitepoint.com/value-objects-explained-with-ruby/)
+* [respond to missing](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
 
 # Gems
 
@@ -113,6 +116,9 @@ TODO: подумать над структурой
 * [DDD подход к решению задачи сложной фильтрации данных](http://web.archive.org/web/20120902021132/http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
 * [DDD: начало](http://zendframework.ru/forum/index.php?topic=4066.0)
 
+# Тестирование
+* [Как тестировать закрытые методы?](http://sergeyteplyakov.blogspot.ru/2013/05/blog-post.html)
+
 # Паттерны
 
 * [state_machine](http://www.ict.edu.ru/ft/003756/pattern.pdf)
@@ -165,6 +171,7 @@ TODO: подумать над структурой
 # Блоги
 
 * [Бындю](http://blog.byndyu.ru)
+* [Алексей Махоткин](http://squadette.ru/)
 * [nashbridges.me](http://nashbridges.me/)
 * [rubyflow.ru](http://rubyflow.ru/)
 * [Технические заметки одного Евтуховича](http://evtuhovich.ru/)
