@@ -122,6 +122,7 @@ TODO: подумать над структурой
 # Библиотеки
 * [awesome-ruby](https://github.com/markets/awesome-ruby)
 
+* [date_range_formatter](https://github.com/darkleaf/date_range_formatter)
 * [state_machine](https://github.com/state-machines/state_machines-activerecord)
 * [validates](https://github.com/kaize/validates) - частые валидации (email, slug)
 * [simple_form](https://github.com/plataformatec/simple_form) - формы на стероидах
