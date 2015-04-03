@@ -12,7 +12,6 @@ TODO: подумать над структурой
 
 # Styleguide
 
-* [Github ruby styleguide](https://github.com/styleguide/ruby)
 * [Ruby styleguide](https://github.com/bbatsov/ruby-style-guide)
 * [Rails styleguide](https://github.com/bbatsov/rails-style-guide)
 
