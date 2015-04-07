@@ -5,6 +5,7 @@ TODO: подумать над структурой
 * [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
 * [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
+* [Слайды](http://www.slideshare.net/profyclub_ru/07-19946378)
 * [Человеческий фактор или «соглашения не работают»](http://megamozg.ru/post/1240/)
 * [The Zen of Python](https://ru.wikipedia.org/wiki/Python#.D0.A4.D0.B8.D0.BB.D0.BE.D1.81.D0.BE.D1.84.D0.B8.D1.8F)
 * [Утиная типизация](https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%B8%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
