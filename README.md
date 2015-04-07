@@ -152,6 +152,7 @@ TODO: подумать над структурой
 * active_admin
 * can_can
 * paperclip
+* decent_exposure
 
 
 # JS
