@@ -1,6 +1,8 @@
 Правила программирования
 ========================
 
+Сылки:
+
 * [Ментальное программирование(Слайды)](http://www.slideshare.net/profyclub_ru/07-19946378)
 * [Ruby styleguide](https://github.com/bbatsov/ruby-style-guide)
 * [Rails styleguide](https://github.com/bbatsov/rails-style-guide)
@@ -8,6 +10,8 @@
 * [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [Github flow](https://guides.github.com/introduction/flow/)
 
+
+Правила:
 
 * DateTime.current;
 * На функциональные баги пишется тест;
