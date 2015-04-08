@@ -9,7 +9,7 @@
 * [Github flow](https://guides.github.com/introduction/flow/)
 
 
-* DateTime.current
+* DateTime.current;
 * На функциональные баги пишется тест;
 * Запросы к базе только в моделях, снаружи scopes или методы;
 * Не используем default_scopes;
