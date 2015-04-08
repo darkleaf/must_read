@@ -2,6 +2,7 @@ TODO: подумать над структурой
 
 # Начало
 
+* [Правил программирования](requirements.md)
 * [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
 * [Ричард Фейнман - Магниты и вопросы "почему?"](https://youtu.be/IPogLMRBZ4o)
 * [Ментальное программирование](http://www.youtube.com/watch?v=eEEHWQNuCLQ)
