@@ -184,6 +184,7 @@ TODO: подумать над структурой
 
 * [railscasts](http://railscasts.com/)
 * [asciicasts](http://asciicasts.com/)
+* [tons of rails video tutorials](http://www.youtube.com/user/mackenziechild/videos)
 
 # Статьи
 
@@ -195,9 +196,10 @@ TODO: подумать над структурой
 * [UML](http://habrahabr.ru/post/150041/)
 * [CLI](http://habrahabr.ru/post/150950/)
 * [Протокол HTTP](http://squadette.ru/blog/2012/01/19/high-scalability/)
-* [Алгоритмы и структурыданных](http://squadette.ru/blog/2012/01/19/high-scalability-2/)
+* [Алгоритмы и структуры данных](http://squadette.ru/blog/2012/01/19/high-scalability-2/)
 * [Анатомия ошибок](http://goblingame.blogspot.ru/2012/10/blog-post_12.html)
 * [Экстремальное программирование – реальность и мифы](http://www.skipy.ru/philosophy/xp.html)
+* [Implementing Rails APIs like a professional] (http://blog.joshsoftware.com/2014/05/08/implementing-rails-apis-like-a-professional/)
 
 # Книги
 
@@ -215,11 +217,17 @@ TODO: подумать над структурой
 * [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем](http://www.ozon.ru/context/detail/id/5497184/) (Эрик Эванс)
 * Джоэл о программировании (Джоэл Спольски)
 
+## Ruby/Rails изнутри
+
+* [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope) (Pat Shaughnessy)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+
 ## Базы данных
 
 * [Оптимизация баз данных](http://www.ozon.ru/context/detail/id/1685709/) (Деннис Шаша, Филипп Бонне)
 * [Рефакторинг sql приложений](http://www.ozon.ru/context/detail/id/4491539/)
 * [Рефакторинг баз данных](http://www.ozon.ru/context/detail/id/3261793/) (Скотт В. Эмблер, Эмблер Прамодкумар Дж. Садаладж)
+* [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement] (https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) (Eric Redmond and Jim R. Wilson)
 
 ## UML
 
@@ -273,6 +281,7 @@ TODO: подумать над структурой
 * [rubeque.com](http://rubeque.com/)
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
+* [exercism.io](http://exercism.io/)
 
 # Twitter Bootstrap
 
