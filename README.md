@@ -47,7 +47,6 @@ TODO: подумать над структурой
 # Rails
 
 * [Иерархия контроллеров](http://habrahabr.ru/post/136461/)
-* [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Give Rails Autoloading a Boot to the Head](http://wondible.com/2011/12/23/give-rails-autoloading-a-boot-to-the-head/)
 * [Что же такое Railtie, Engine и Plugin?](http://memo.undr.su/2011/04/01/chto-zhe-takoe-railtie-engine-i-plugin/)
@@ -56,6 +55,12 @@ TODO: подумать над структурой
 * [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
 * [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
 * [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
+
+# Тестирование
+
+* [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
+* [Rspec](http://rspec.info/)
+* [Better Specs](http://betterspecs.org/ru/)
 
 # Правила
 
