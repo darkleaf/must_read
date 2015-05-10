@@ -37,6 +37,8 @@ TODO: подумать над структурой
 * [Когда не использовать unless](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless)
 * [value object](http://www.sitepoint.com/value-objects-explained-with-ruby/)
 * [respond to missing](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
+* [ruby hacking guide](https://ruby-hacking-guide.github.io/)
+* [class_exec and instance_exec](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/207801)
 
 # Gems
 
