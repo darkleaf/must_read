@@ -171,6 +171,7 @@ TODO: подумать над структурой
 * [http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html)
 * [http://addyosmani.github.com/todomvc/](http://addyosmani.github.com/todomvc/)
 * [http://github.com/madrobby/keymaster](http://github.com/madrobby/keymaster)
+* [Twitter аккаунт с кучей JS-интересностей](https://twitter.com/jsunderhood)
 
 # JS libs
 
