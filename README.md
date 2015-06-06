@@ -280,6 +280,7 @@ TODO: подумать над структурой
 * [stillmaintained.com](http://stillmaintained.com/)
 * [coderwall.com](http://coderwall.com/)
 * [cloud9 IDE](http://c9.io/)
+* [regex101 - разбор регулярок](https://regex101.com/)
 
 
 
