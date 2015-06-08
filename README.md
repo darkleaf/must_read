@@ -193,6 +193,7 @@ TODO: подумать над структурой
 * [railscasts](http://railscasts.com/)
 * [asciicasts](http://asciicasts.com/)
 * [tons of rails video tutorials](http://www.youtube.com/user/mackenziechild/videos)
+* [ruby rogues](http://devchat.tv/ruby-rogues/)
 
 # Статьи
 
@@ -229,6 +230,12 @@ TODO: подумать над структурой
 
 * [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope) (Pat Shaughnessy)
 * [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [The Well-Grounded Rubyist] (http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist) (David A. Black)
+* [Clean Ruby] (http://www.goodreads.com/book/show/14438307-clean-ruby) (Jim Gay)
+* [Eloquent Ruby] (http://www.goodreads.com/book/show/9364729-eloquent-ruby) (Russ Olsen)
+* [Confident Ruby] (http://www.confidentruby.com/) (Avdi Grimm)
+* [Refactoring Ruby Edition] (http://martinfowler.com/books/buying.html) (Jay Fields, Shane Harvey and Martin Fowler)
+* [The Rails 4 Way] (http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321944275) (Obie Fernandez)
 
 ## Базы данных
 
@@ -255,6 +262,7 @@ TODO: подумать над структурой
 ## Тестирование
 
 * [Непрерывная интеграция](http://www.ozon.ru/context/detail/id/3851770/) (Поль М. Дюваль, Стивен Матиас и Эндрю Гловер)
+* [Everyday Rails Testing with RSpec](http://everydayrails.com/2014/10/05/rspec-3-book-update.html) (Aaron Sumner)
 
 ## ПМ
 
