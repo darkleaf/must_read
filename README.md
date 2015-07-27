@@ -300,6 +300,7 @@ TODO: подумать над структурой
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
 * [exercism.io](http://exercism.io/)
+* [bloc.io/ruby-warrior](https://www.bloc.io/ruby-warrior/)
 
 # Twitter Bootstrap
 
