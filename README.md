@@ -225,6 +225,7 @@ TODO: подумать над структурой
 * [Архитектура корпоративных приложений](http://www.ozon.ru/context/detail/id/4884925/) (М. Фаулер)
 * [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем](http://www.ozon.ru/context/detail/id/5497184/) (Эрик Эванс)
 * Джоэл о программировании (Джоэл Спольски)
+* [Rails Antipatterns: Best Practice Ruby on Rails Refactoring](http://www.goodreads.com/book/show/9765652-rails-antipatterns) (Chad Pytel, Tammer Saleh)
 
 ## Ruby/Rails изнутри
 
@@ -299,6 +300,7 @@ TODO: подумать над структурой
 * [rubymonk.com](http://rubymonk.com/)
 * [codecademy](http://www.codecademy.com/ru/tracks/ruby)
 * [exercism.io](http://exercism.io/)
+* [ruby-warrior](https://www.bloc.io/ruby-warrior/)
 
 # Twitter Bootstrap
 
