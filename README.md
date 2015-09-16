@@ -11,6 +11,7 @@ TODO: подумать над структурой
 * [The Zen of Python](https://ru.wikipedia.org/wiki/Python#.D0.A4.D0.B8.D0.BB.D0.BE.D1.81.D0.BE.D1.84.D0.B8.D1.8F)
 * [Утиная типизация](https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%B8%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 * [Рефлексия](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
+* [Как работает реляционная БД](http://habrahabr.ru/company/mailru/blog/266811/)
 
 # Styleguide
 
