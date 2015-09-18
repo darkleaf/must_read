@@ -230,6 +230,7 @@ TODO: подумать над структурой
 
 ## Ruby/Rails изнутри
 
+* [Practical Object-Oriented Design in Ruby: An Agile Primer] (http://www.poodr.com/) (Sandi Metz)
 * [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope) (Pat Shaughnessy)
 * [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
 * [The Well-Grounded Rubyist] (http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist) (David A. Black)
