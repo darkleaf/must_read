@@ -101,7 +101,7 @@ TODO: подумать над структурой
 
 # Postgresql
 
-* [DBA2. Администрирование PostgreSQL. Расширенный курс. «Постгрес Профессиональный»](https://www.youtube.com/playlist?list=PLaFqU3KCWw6JgufXBiW4dEB2-tDpmOXPH)
+* [DBA2. Администрирование PostgreSQL. Расширенный курс.](https://www.youtube.com/playlist?list=PLaFqU3KCWw6JgufXBiW4dEB2-tDpmOXPH) [«Постгрес Профессиональный»](http://www.POSTGRESPRO.ru)
 * [полнотекстовый поиск](https://mkdev.me/posts/kak-delat-full-text-poisk-v-rails-pri-pomoschi-postgresql)
 
 # Проектирование
