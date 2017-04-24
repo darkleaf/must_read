@@ -82,6 +82,10 @@ TODO: подумать над структурой
 * Не увлекаемся индексами: стало тормозить - добавили индекс;
 * На уникальное поле - уникальный индекс (+ uniqueness).
 
+# Верстка
+
+* http://webmasters.teamdev.com/
+
 # Git
 
 * [Github flow](https://guides.github.com/introduction/flow/)
